@@ -3,6 +3,7 @@ Middleware API
 Projeto desenvolvido em sala de aula com orientação do professor para aprender o funcionamento de middlewares no Node.js com Express.
 
 📚 O que foi aprendido
+
 Criação de middlewares
 Logs de requisição
 Autenticação básica
